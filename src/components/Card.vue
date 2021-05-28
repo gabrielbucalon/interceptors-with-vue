@@ -12,7 +12,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="css">
 .card {
   background: #fff;
   border-radius: 2px;

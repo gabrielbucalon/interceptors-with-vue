@@ -1,11 +1,17 @@
 <template>
-  <article></article>
+  <article>
+    <card></card>
+  </article>
 </template>
 
 <script>
+import Card from "./components/Card";
+
 export default {
   name: "App",
-  components: {},
+  components: {
+    Card,
+  },
 };
 </script>
 
